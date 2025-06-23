@@ -1,4 +1,4 @@
-# NzMed Advance Java
+#  Advance Java
 
 This project contains Java code examples covering **Advanced Java topics** useful for building robust, modern, and functional Java applications.
 
