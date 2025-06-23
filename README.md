@@ -45,4 +45,4 @@ This project contains Java code examples covering **Advanced Java topics** usefu
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/nzmed-advance-java.git
+git clone https://github.com/prajalScripts/IdeaProjects.git
